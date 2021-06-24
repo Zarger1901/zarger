@@ -1,5 +1,5 @@
-1/
-.DS_Store
-
-*.log
+/1
 !/1/2.txt
+
+.DS_Store
+*.log
